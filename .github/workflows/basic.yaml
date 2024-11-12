@@ -1,7 +1,7 @@
 name: Compile c++
 
 on:
-	push
+	push:
 
 jobs:
 	basic-job:
